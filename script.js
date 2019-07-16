@@ -309,7 +309,7 @@ let techKaro = {
     
 
 
-},
+}
 
 
 
